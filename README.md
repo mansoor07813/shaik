@@ -1,7 +1,5 @@
-# shaik
-index.html
 
- Add this content:
+
 <!DOCTYPE html>
 <html>
 <head>
